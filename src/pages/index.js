@@ -8,6 +8,7 @@ const IndexPage = () => (
     <h1>Journeys in React</h1>
     <p>Documenting the progress that I make journeying on the way to React.</p>
     <p>Let's 'Now go build something great.'!</p>
+    <p>Waiting for React components.</p>
     <Link to="/page-2/">Go to page 2</Link>
   </Layout>
 )
